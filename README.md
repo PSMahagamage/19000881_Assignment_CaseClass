@@ -1,2 +1,2 @@
-# 19000881_Assignment_CaseClass
-Functional Programming  - Assignment - Case class
+Assignment - CaseClass -19000881 - 2019/CS/088
+CS2204 Functional Programming  - Assignment - Case class
